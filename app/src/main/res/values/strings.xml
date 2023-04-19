@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LAB6CGM</string>
+    <string name="introduce_un_numero_que_desees_buscar_dentro_del_arreglo">Introduce un numero que desees buscar dentro del arreglo</string>
+    <string name="introduce_el_numero_aqui">Introduce el numero aqui</string>
+    <string name="contar">Contar</string>
+    <string name="buscar">Buscar</string>
+</resources>
